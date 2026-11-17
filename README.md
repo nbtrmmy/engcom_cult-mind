@@ -1,4 +1,4 @@
-# engcom-artwork
+# engcom_cult-mind
 
 Artwork that represents Cult Mind, one category of why it is difficult to be conscientious (ENGCOM Conscientiousness Project 2026).
 
